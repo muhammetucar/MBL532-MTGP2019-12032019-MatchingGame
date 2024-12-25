@@ -1,8 +1,8 @@
 # MBL532-MTGP2019-MatchingGame
 
-[EN] C# based Image Matching Game. Written in Microsoft Visual Studio. May have bugs and cringe. :)
+[EN] C# based Image Matching Game. Written in Microsoft Visual Studio. May have bugs and cringe. Copy sefect folder in C:\. Have fun :)
 
-[TR] C# tabanlı Resim Eşleştirme Oyunu. Microsoft Visual Studio'da yazılmıştır. Hatalar ve sıkıntılar olabilir. :)
+[TR] C# tabanlı Resim Eşleştirme Oyunu. Microsoft Visual Studio'da yazılmıştır. Hatalar ve sıkıntılar olabilir. Sefect klasörünü C:\ içerisine kopyalayın. İyi eğlenceler. :)
 
 [![Image](https://i.hizliresim.com/hoam3go.gif)](https://hizliresim.com/hoam3go)
 
